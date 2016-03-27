@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestAPI</string>
+    <string name="swipe_down">Swipe Down</string>
+</resources>
